@@ -1,3 +1,3 @@
-# robofriends-hooks
+# ztm-robofriends-hooks-redux
 
-Robofriends with Hooks!
+Robofriends with Hooks and Redux!
